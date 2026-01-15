@@ -10,7 +10,7 @@
 - Submit a response, simultaneously query Open AI
 - Receive response
 
-## Laster Stages
+## Later Stages
 - Query Data set of questions
 - Convert chosen question into voice and play it to user
 - Record and transcribe audio response

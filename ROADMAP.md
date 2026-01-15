@@ -11,12 +11,12 @@ Help users practice behavioral interviews by simulating a realistic mock intervi
 - End session with basic AI feedback
 
 ## Implementation-Goals 
-# Necessary 
+### Necessary 
 - Video recording
 - User accounts / Authentication
 - Voice AI interviewer "Text to speech" with Natural voice
 - Curated Interviews / Custom interviews for specific jobs
-# Nice to have
+### Nice to have
 - Advanced scoring
 - Sharing or exporting interview for more professional feedback
 
